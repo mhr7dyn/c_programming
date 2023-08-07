@@ -2,7 +2,7 @@
 //Write a program to calculate simple interest for a given P = 4000, T = 2, R = 5.5. (I = P * T * R / 100)
 
 int main(void){
-    float P, T, R, I;
+    double P, T, R, I;
     P = 4000;
     T = 2;
     R = 5.5;
