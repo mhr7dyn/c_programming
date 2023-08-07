@@ -1,2 +1,2 @@
 # c_programming
-All the written in c
+All the stuff written in c.
