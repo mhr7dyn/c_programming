@@ -8,5 +8,5 @@ int main()
     printf("%f\n", weight);
     printf("%lf\n", weight);
     printf("%lf\n", dw);
-    printf("%.2f");
+    printf("%.2f\n",dw);
 }
